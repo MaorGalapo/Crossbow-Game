@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - Platform
+  - shot
+  - Enemy
+  - PowerUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Platform
+  - Ground
+  - Shot
+  - Enemy
+  - PowerUp
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1354103039
+    locked: 0
+  - name: PowerUp
+    uniqueID: 694092297
+    locked: 0
+  - name: shot
+    uniqueID: 1845158693
+    locked: 0
+  - name: Platform
+    uniqueID: 913345501
+    locked: 0
+  - name: Player
+    uniqueID: 1385212451
+    locked: 0
+  - name: Explosion
+    uniqueID: 605330955
+    locked: 0
